@@ -47,10 +47,7 @@ I am Lueji Phaphety, a graduate student in Applied Machine Intelligence, passion
 ---
 
 ## GitHub Stats
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=lueji-ai&show_icons=true&theme=default" width="45%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lueji-ai&layout=compact&theme=default" width="45%" />
-</p>
+![Lueji's GitHub stats](https://github-readme-stats.vercel.app/api?username=lueji-ai&show_icons=true&theme=default)
 
 ---
 
