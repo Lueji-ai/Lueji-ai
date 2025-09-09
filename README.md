@@ -7,9 +7,9 @@
 ## About Me
 I am Lueji Phaphety, a graduate student in Applied Machine Intelligence, passionate about leveraging data and AI to solve real-world problems. I focus on machine learning, data science, GIS, risk analysis, and automation, building tools and models that drive actionable insights.  
 
----
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lueji-phaphety)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lphaphety.ai@gmail.com)
+
 ---
 
 ## Current Learning
