@@ -55,5 +55,3 @@ I am Lueji Phaphety, a graduate student in Applied Machine Intelligence, passion
 I enjoy exploring AI applications for real-world problems and continuously look for innovative ways to integrate technology into everyday workflows.  
 
 *"Data is the new oil, but insights are the refinery."*
-
-<img src="https://raw.githubusercontent.com/lueji-ai/your-repo/main/profile.jpg" width="150" style="border-radius:50%;" />
