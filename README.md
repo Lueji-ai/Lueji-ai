@@ -20,7 +20,12 @@ I am Lueji Phaphety, a graduate student in Applied Machine Intelligence, passion
 ## Highlighted Project
 ### [Breast Cancer Prediction](https://huggingface.co/spaces/phaphety2025/BreastCancerPred)
 - Built a predictive model for breast cancer using machine learning, with complete workflow and visualization.  
-- Developed in a live Hugging Face environment, including feature importance and cross-validation.  
+- Developed in a live Hugging Face environment, including feature importance and cross-validation.
+
+### [Pet Re-Identification (Pet_ReID)](https://huggingface.co/spaces/phaphety2025/pet-reid-app)
+- Designed a deep learning system for pet re-identification using Siamese Networks and contrastive learning.
+- Supports pairwise image comparison and lost pet search through image similarity.
+- Built with PyTorch & FastAI, deployed on Hugging Face Spaces.
 
 *(More projects coming soon…)*  
 
@@ -52,6 +57,6 @@ I am Lueji Phaphety, a graduate student in Applied Machine Intelligence, passion
 ---
 
 ## Fun Fact
-I enjoy exploring AI applications for real-world problems and continuously look for innovative ways to integrate technology into everyday workflows.  
+I enjoy exploring how AI can be applied to meaningful real-world challenges—from predicting health outcomes with machine learning to re-identifying pets with deep learning. My projects often blend technical rigor with practical applications, reflecting my belief that: 
 
 *"Data is the new oil, but insights are the refinery."*
