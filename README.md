@@ -27,7 +27,8 @@ I am Lueji Phaphety, a graduate student in Applied Machine Intelligence, passion
 - Supports pairwise image comparison and lost pet search through image similarity.
 - Built with PyTorch & FastAI, deployed on Hugging Face Spaces.
 
-*(More projects coming soon…)*  
+*(More projects coming soon LLM Project…)*  
+This section will feature a generative AI project using Large Language Models. Stay tuned!
 
 ---
 
